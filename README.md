@@ -80,6 +80,11 @@ Install the following libraries from **Arduino Library Manager**:
 
 ---
 
+# 🔧 Pin Diagram
+<img width="1079" height="726" alt="Circuit Diagram" src="https://github.com/user-attachments/assets/e936455e-d9cc-4003-8156-ca8b474f87e1" />
+
+---
+
 ## 🧪 Applications
 
 - Appliance automation
