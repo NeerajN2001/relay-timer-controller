@@ -7,12 +7,12 @@ The system displays all information on a **16×2 I2C LCD** and is suitable for a
 
 ## 🔧 Features
 
-- ⏰ Set timer in **hours, minutes, and seconds**
-- 📟 User interface using **16×2 I2C LCD**
-- 🔘 Button-based navigation (UP, DOWN, SET, MENU)
-- 🔌 Relay control for external loads
-- 🔁 Real-time countdown display
-- ❌ Manual stop/reset option
+- Set timer in **hours, minutes, and seconds**
+- User interface using **16×2 I2C LCD**
+- Button-based navigation (UP, DOWN, SET, MENU)
+- Relay control for external loads
+- Real-time countdown display
+- Manual stop/reset option
 
 ---
 
